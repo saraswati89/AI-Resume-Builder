@@ -37,7 +37,7 @@ To run AI Resume Builder locally, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/sahidrajaansari/ai-resume-builder.git
+git clone https://github.com/saraswati89/AI-Resume-Builder.git
 cd ai-resume-builder
 ```
 
@@ -203,7 +203,7 @@ git push origin feature-name
 ### 7. Create a Pull Request (PR)
 
 - Go to the original repository:  
-  **https://github.com/sahidrajaansari/ai-resume-builder**
+  **https://github.com/saraswati89/AI-Resume-Builder**
 - Click **"New Pull Request"** and select your branch.
 - Add a description and submit your PR.
 
@@ -213,9 +213,3 @@ The maintainers will review your PR. Once approved, it will be merged into the m
 
 ---
 
-## Developers 👨‍💻👩‍💻
-
-- [@Sahid Raja Ansari](https://www.linkedin.com/in/sahidrajaansari/)
-- [@Shaharyar Alam](https://www.linkedin.com/in/shaharyar-alam-305322208/)
-
----
